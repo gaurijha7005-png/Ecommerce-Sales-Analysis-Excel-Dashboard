@@ -94,12 +94,6 @@ The dashboard allows users to filter and explore data dynamically using slicers.
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
 ## 👩‍💻 Author
 
 **Gauri Jha**
